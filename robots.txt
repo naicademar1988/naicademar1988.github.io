@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naicademar1988.github.io/sitemap.xml
